@@ -1,0 +1,9 @@
+venv
+*.conf
+logs
+.idea
+__pycache__
+build.log
+config/config.conf
+airflow.env
+.env
